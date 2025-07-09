@@ -1,3 +1,0 @@
-/home/alice/personal/dev/thor-ui/build/CMakeFiles/loki.dir
-/home/alice/personal/dev/thor-ui/build/CMakeFiles/edit_cache.dir
-/home/alice/personal/dev/thor-ui/build/CMakeFiles/rebuild_cache.dir
