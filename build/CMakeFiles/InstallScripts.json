@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/alice/personal/dev/thor-ui/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
